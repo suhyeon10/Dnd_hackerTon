@@ -4,12 +4,12 @@
 
 ![Untitled](https://user-images.githubusercontent.com/76679995/181028959-ad73e2cc-ab23-40a9-aa8e-aa19bf03f3c9.png)
 
-### 개요
+### Business
 
 ![dfs](https://user-images.githubusercontent.com/76679995/181032939-fbc4f28d-1b42-4ee0-888f-eae32b523f6b.PNG)
 
 
-### API INFO
+### Feature INFO
 일정 공유
 1. 캘린더
 2. 팔로우/팔로워 가져오기
